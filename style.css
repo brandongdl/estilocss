@@ -1,0 +1,30 @@
+body{
+    background-image: url(fon.jpg);
+    background-size: 100%;
+}
+*{
+    color: white;
+}
+#hs{
+    background-color: gray;
+    margin: 40px;
+}
+.lu{
+    color: cornflowerblue;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#las{
+    border-radius: 30%;
+}
+#ag{
+    border-radius: 50%;
+}
+#par{
+    background-color: crimson;
+    margin: 30px;
+    font-family: 'Arial Black';
+}
+#lis{
+    background-color: rgb(2, 4, 86);
+}
